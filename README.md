@@ -2,7 +2,7 @@
 
 Лаунчер написанный в 2018 году для проекта MTA Vice City.
 
-![Лаунчер MTA VICE CITY](https://github.com/demsasha4yt/JSLauncher_MTAViceCity/screens/1.png)
+![Лаунчер MTA VICE CITY](https://github.com/demsasha4yt/JSLauncher_MTAViceCity/screens/1.jpg)
 
 > MTA Vice City Game Launcher
 
